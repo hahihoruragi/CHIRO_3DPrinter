@@ -28,7 +28,6 @@ Ender3 v2에서 듀얼 z축, 툴헤드만 Voron stealthburner로 변경된 프�
 현재 동아리방에 있는 프린터 모두 Klipper 펌웨어를 사용합니다.
 
 관련 문서는 https://www.klipper3d.org 여기서 확인 할 수 있습니다.
-
 # [Voron](https://vorondesign.com)
 동아리의 프린터들은 대다수 Voron Design 기반으로 제작되었습니다.
 
