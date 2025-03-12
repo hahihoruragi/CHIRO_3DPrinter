@@ -1,7 +1,9 @@
 # CHIRO_3DPrinter_GUIDE
 이 repo는 중앙대학교 통일공대 로봇 동아리 CHIRO를 위한 3D 프린터 사용 가이드 및 정비 가이드 관련 문서입니다.
 
-# [동아리 프린터](https://github.com/2lectro-racoon/CHIRO_3DPrinter/tree/main/Printers)
+# [동아리 프린터]([https://github.com/hahihoruragi/CHIRO_3DPrinter/tree/fe22ce592e20fa0e33d7a4fa155ede865cae8125/Printers])
+
+)
 
 동아리방에 보유중인 프린터 리스트입니다.
 
