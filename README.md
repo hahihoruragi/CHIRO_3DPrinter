@@ -3,7 +3,7 @@
 
 # [동아리 프린터]([https://github.com/hahihoruragi/CHIRO_3DPrinter/tree/fe22ce592e20fa0e33d7a4fa155ede865cae8125/Printers])
 
-)
+
 
 동아리방에 보유중인 프린터 리스트입니다.
 
