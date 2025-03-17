@@ -30,13 +30,9 @@ ender3
 
 ### 꼭 프린터 3대 이미지를 확인하시고 실제 가동 프린터와 예약 리스트의 프린터를 맞춰서 작성 부탁드립니다.
 
-![예약리스트](images/excel.png)
-
-좌측 하단에 프린터별로 시트가 있습니다. 맞는 프린터에 작성해주세요
+3D 프린터별로 시트가 있습니다. 맞는 프린터에 작성해주세요
 
 작성되어있지 않는 상태로 출력중인 경우, 취소될 가능성이 있습니다.
-
-(https://docs.google.com/spreadsheets/d/1wqA8Xc8Nbucf8mbVy7zQWF-za3Rr88YbO-wAvKrq4g4/edit?usp=sharing)
 
 # [동아리 Prusa Slicer 사용법](https://github.com/hahihoruragi/CHIRO_3DPrinter/tree/main/PrusaSlicer)
 슬라이서는 프루사슬라이서를 선택하였습니다.
